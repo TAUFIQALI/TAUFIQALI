@@ -20,7 +20,9 @@
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
   </div>
 </div>
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <div align="center">
   <h2 style="font-size: 1.8em; margin-bottom: 20px; color: #00aaff;">
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" style="vertical-align: middle;" />
@@ -88,14 +90,10 @@
     <div style="background: rgba(0, 0, 0, 0.2); border-radius: 15px; padding: 20px; width: 400px; transition: transform 0.3s;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAUFIQALI&theme=tokyonight&hide_border=true&border_radius=10&fire=00ff88&ring=00ff88&currStreakLabel=00ff88&sideLabels=00ff88" />
     </div>
-    <div style="background: rgba(0, 0, 0, 0.2); border-radius: 15px; padding: 20px; width: 400px; transition: transform 0.3s;">
-      <img src="https://github-readme-stats.vercel.app/api?username=TAUFIQALI&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00ff88" />
-    </div>
+    
   </div>
   
-  <div style="background: rgba(0, 0, 0, 0.2); border-radius: 15px; padding: 20px; width: 820px; max-width: 100%; transition: transform 0.3s;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TAUFIQALI&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00ff88&text_color=ffffff&size_weight=0.5&count_weight=0.5" />
-  </div>
+  
 </div>
 
 <div align="center">
@@ -175,56 +173,4 @@
   </div>
 </div>
 
-<style>
-  @keyframes pulse {
-    0% { box-shadow: 0 0 0 0 rgba(0, 255, 136, 0.7); }
-    70% { box-shadow: 0 0 0 15px rgba(0, 255, 136, 0); }
-    100% { box-shadow: 0 0 0 0 rgba(0, 255, 136, 0); }
-  }
-  @keyframes gradient {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  @keyframes shimmer {
-    0% { background-position: -200% center; }
-    100% { background-position: 200% center; }
-  }
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  .typewriter {
-    overflow: hidden;
-    border-right: .15em solid #00ff88;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .15em;
-    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-  }
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #00ff88; }
-  }
-  div[style*="transition"] {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  div[style*="transition"]:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-  }
-</style>
 
-<script>
-  // Typewriter effect
-  document.addEventListener('DOMContentLoaded', function() {
-    const text = "Full-Stack JavaScript Engineer | React | Next.js | NestJS | TypeScript";
-    const typewriter = document.querySelector('.typewriter');
-    typewriter.textContent = text;
-  });
-</script>
