@@ -1,23 +1,66 @@
-<img align="right" src="https://github.com/TAUFIQALI.png" width="360" alt="TAUFIQALI" />
+<div align="center">
+  <img src="https://github.com/TAUFIQALI.png" width="180" style="border-radius:50%; border:4px solid #00ff88; box-shadow: 0 0 30px #00ff8833;" />
+  
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasoCCVyRM/giphy.gif" width="28" />
+    Taufiq Ali
+  </h1>
+  
+  <p><i>Full-Stack JavaScript Engineer</i></p>
+  
+  <p>Crafting high-performance applications with<br>
+  <strong>React • Next.js • NestJS • TypeScript</strong></p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=TAUFIQALI&label=Profile%20Views&color=00ff88&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/TAUFIQALI?label=Followers&style=flat-square&color=00ff88" />
+  </p>
+</div>
 
-# Hi there, I'm Taufiq 👋
 
-**Full-Stack JavaScript Engineer**  
-Building fast, scalable web apps with **React • Next.js • NestJS • Express • TypeScript**
 
-🔭 Currently working on real-time dashboards and micro-services  
-🌱 Learning advanced system design & performance optimization  
-⚡ Fun fact: I can build a production-ready app in a weekend
+### 🔭 Current Focus
+- Building real-time dashboards & microservices
+- Mastering system design & performance optimization
+- Rapid prototyping and production deployment
 
-### 🛠 Tech Stack
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
 
-### 🔥 My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TAUFIQALI&theme=dark)](https://git.io/streak-stats)
-![Taufiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAUFIQALI&show_icons=true&theme=dark&hide_border=true)
+
+### 🛠️ Technical Expertise
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,express,prisma,postgres,tailwind,docker,redis&perline=8" />
+</div>
+
+
+
+### 📊 GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAUFIQALI&theme=tokyonight&hide_border=true&border_radius=10&fire=00ff88&ring=00ff88&currStreakLabel=00ff88&sideLabels=00ff88" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TAUFIQALI&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00ff88&text_color=ffffff&size_weight=0.5&count_weight=0.5" />
+</div>
+
+
+
+### 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TAUFIQALI&theme=tokyonight&no-frame=true&no-bg=false&margin-w=15&row=1&column=7" />
+</div>
+
+
 
 ### 🚀 Featured Projects
-Coming soon…
+*Coming soon — with live demos, screenshots & animations*
 
-Connect with me 👇
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-taufiq-ali-119619218)
+
+
+<div align="center">
+  <h3>Let's Connect</h3>
+  
+  <a href="https://linkedin.com/in/md-taufiq-ali-119619218">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <br/><br/>
+  <img src="https://media.giphy.com/media/M9gbBd9oZEd8yLda7z/giphy.gif" width="60" />
+</div>
