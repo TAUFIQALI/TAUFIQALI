@@ -19,10 +19,12 @@
     <img src="https://img.shields.io/github/followers/TAUFIQALI?label=Followers&style=flat-square&color=00ff88" />
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
   </div>
-</div>
-<!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+ <div style="display: flex; justify-content: center; gap: 15px; margin: 15px 0;">
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  </div>
+   
+</div>
 <div align="center">
   <h2 style="font-size: 1.8em; margin-bottom: 20px; color: #00aaff;">
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" style="vertical-align: middle;" />
