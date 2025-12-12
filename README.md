@@ -1,3 +1,25 @@
+
+<a href="https://github.com/walidbosso](https://github.com/TAUFIQALI/TAUFIQALI"> 
+ <img align="left" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<a href="https://github.com/TAUFIQALI/TAUFIQALI"> 
+ <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<a href="https://github.com/TAUFIQALI/TAUFIQALI"> 
+ <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">    
+</a>
+<p align="center">
+
+
+<br/>
+
+
+
+ 
+## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/TAUFIQALI/TAUFIQALI"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/TAUFIQALI/TAUFIQALI"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=TAUFIQALI&label=Profile%20Views&color=00ff88&style=flat-square"></a>
+
+
+
 <div align="center">
   <!-- Animated Profile Header -->
   <div style="position: relative; display: inline-block;">
@@ -14,11 +36,6 @@
     <span class="typewriter"></span>
   </p>
   
-  <div style="display: flex; justify-content: center; gap: 15px; margin: 15px 0;">
-    <img src="https://komarev.com/ghpvc/?username=TAUFIQALI&label=Profile%20Views&color=00ff88&style=flat-square" />
-    <img src="https://img.shields.io/github/followers/TAUFIQALI?label=Followers&style=flat-square&color=00ff88" />
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-  </div>
 
  <div style="display: flex; justify-content: center; gap: 15px; margin: 15px 0;">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
