@@ -250,14 +250,136 @@
 ---
 
 <!-- ==================== GITHUB STATS ==================== -->
+<!-- ==================== GITHUB STATS & ACTIVITY ==================== -->
 <div align="center">
-  <table style="border-collapse: separate; border-spacing: 15px;">
+  <h2>
+    <img src="https://img.shields.io/badge/_GitHub_Stats_&_Activity-0d1117?style=for-the-badge&labelColor=1a1f2e" />
+  </h2>
+</div>
+
+<!-- Profile Summary Card -->
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 15px; width: 100%;">
     <tr>
-      <td style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 15px; box-shadow: 0 10px 30px rgba(102,126,234,0.3);">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TAUFIQALI&theme=tokyonight" alt="Stats" onerror="this.src='https://via.placeholder.com/400x200/667eea/ffffff?text=GitHub+Stats+Loading...'" />
+      <td style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(102,126,234,0.4);">
+        <h3 style="color: white; margin: 0 0 15px 0; font-size: 18px;">📊 Profile Overview</h3>
+        <div style="color: white; font-size: 14px; line-height: 2;">
+          <p>👤 <b>Username:</b> TAUFIQALI</p>
+          <p>📅 <b>Joined:</b> 2 years ago</p>
+          <p>💼 <b>Company:</b> OrangeToolz.com</p>
+          <p>📦 <b>Public Repos:</b> 8</p>
+          <p>🔥 <b>Contributions 2026:</b> 9+</p>
+        </div>
       </td>
-      <td style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 15px; box-shadow: 0 10px 30px rgba(240,147,251,0.3);">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=TAUFIQALI&theme=tokyonight" alt="Languages" onerror="this.src='https://via.placeholder.com/400x200/f093fb/ffffff?text=Top+Languages+Loading...'" />
+      
+      <!-- Top Languages (Fixed Version) -->
+      <td style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(240,147,251,0.4);">
+        <h3 style="color: white; margin: 0 0 15px 0; font-size: 18px;">💻 Top Languages</h3>
+        <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
+          <p style="color: white; margin: 8px 0; font-size: 13px;">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> 35%
+          </p>
+          <p style="color: white; margin: 8px 0; font-size: 13px;">
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> 30%
+          </p>
+          <p style="color: white; margin: 8px 0; font-size: 13px;">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 15%
+          </p>
+          <p style="color: white; margin: 8px 0; font-size: 13px;">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 10%
+          </p>
+          <p style="color: white; margin: 8px 0; font-size: 13px;">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 10%
+          </p>
+        </div>
+      </td>
+    </tr>
+    
+    <!-- GitHub Stats Row -->
+    <tr>
+      <td colspan="2" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(79,172,254,0.4);">
+        <h3 style="color: white; margin: 0 0 15px 0; font-size: 18px;">📈 Contribution Activity</h3>
+        <img src="https://ghchart.rshah.org/4092FF/TAUFIQALI" alt="Contribution Graph" style="width: 100%; max-width: 900px; border-radius: 10px;" onerror="this.src='https://via.placeholder.com/900x150/4facfe/ffffff?text=Contribution+Graph'" />
+      </td>
+    </tr>
+    
+    <!-- Additional Stats -->
+    <tr>
+      <td width="50%" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(67,233,123,0.4);">
+        <h3 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🏆 GitHub Achievements</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+          <img src="https://img.shields.io/badge/🌟_First_Repo-ffffff?style=for-the-badge&logo=github&logoColor=43e97b" />
+          <img src="https://img.shields.io/badge/📦_8_Repos-ffffff?style=for-the-badge&logo=github&logoColor=43e97b" />
+          <img src="https://img.shields.io/badge/⏱️_2_Years-ffffff?style=for-the-badge&logo=github&logoColor=43e97b" />
+          <img src="https://img.shields.io/badge/_Active-ffffff?style=for-the-badge&logo=github&logoColor=43e97b" />
+        </div>
+      </td>
+      
+      <td width="50%" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(250,112,154,0.4);">
+        <h3 style="color: white; margin: 0 0 15px 0; font-size: 18px;"> Development Stats</h3>
+        <div style="color: white; font-size: 13px; line-height: 2;">
+          <p>🎯 <b>Primary Focus:</b> Full-Stack Development</p>
+          <p>🚀 <b>Specialization:</b> React, Node.js, AI</p>
+          <p>💡 <b>Current Work:</b> Voice AI & CRM Systems</p>
+          <p>🌍 <b>Timezone:</b> GMT+6 (Bangladesh)</p>
+        </div>
+      </td>
+    </tr>
+    
+    <!-- Tech Stack Distribution -->
+    <tr>
+      <td colspan="2" style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); padding: 20px; border-radius: 15px; box-shadow: 0 10px 30px rgba(48,207,208,0.4);">
+        <h3 style="color: white; margin: 0 0 15px 0; font-size: 18px;">️ Technology Expertise</h3>
+        <div align="center" style="color: white;">
+          <table style="border-collapse: collapse; width: 100%;">
+            <tr>
+              <td width="25%" align="center" style="padding: 10px;">
+                <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
+                <small style="color: #e0e0e0;">React, Next.js, TypeScript</small>
+              </td>
+              <td width="25%" align="center" style="padding: 10px;">
+                <img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+                <small style="color: #e0e0e0;">Node.js, NestJS, Express</small>
+              </td>
+              <td width="25%" align="center" style="padding: 10px;">
+                <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+                <small style="color: #e0e0e0;">PostgreSQL, MongoDB, Redis</small>
+              </td>
+              <td width="25%" align="center" style="padding: 10px;">
+                <img src="https://img.shields.io/badge/AI-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
+                <small style="color: #e0e0e0;">Gemini, GPT-4, Claude</small>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center" style="margin: 20px 0;">
+  <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 15px; display: inline-block; box-shadow: 0 10px 30px rgba(168,237,234,0.4);">
+    <h3 style="color: #333; margin: 0 0 15px 0; font-size: 18px;">🔥 GitHub Streak Stats</h3>
+    <img src="https://streak-stats.demolay.dev/?user=TAUFIQALI&theme=transparent&hide_border=false&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=667eea&currStreakNum=764ba2&sideNums=667eea&background=00000000" alt="Streak Stats" onerror="this.src='https://via.placeholder.com/400x150/a8edea/333333?text=Current+Streak:+Active+Developer'" />
+  </div>
+</div>
+
+<!-- Repo Stats -->
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 10px; width: 100%;">
+    <tr>
+      <td width="33%" align="center" style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 15px; border-radius: 12px;">
+        <h4 style="color: white; margin: 0; font-size: 28px;">8</h4>
+        <p style="color: white; margin: 5px 0; font-size: 13px;">Public Repositories</p>
+      </td>
+      <td width="33%" align="center" style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 15px; border-radius: 12px;">
+        <h4 style="color: #333; margin: 0; font-size: 28px;">2+</h4>
+        <p style="color: #333; margin: 5px 0; font-size: 13px;">Years on GitHub</p>
+      </td>
+      <td width="33%" align="center" style="background: linear-gradient(135deg, #ffdee9 0%, #b5fffc 100%); padding: 15px; border-radius: 12px;">
+        <h4 style="color: #333; margin: 0; font-size: 28px;">9+</h4>
+        <p style="color: #333; margin: 5px 0; font-size: 13px;">2026 Contributions</p>
       </td>
     </tr>
   </table>
