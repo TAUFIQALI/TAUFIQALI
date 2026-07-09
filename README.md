@@ -1,193 +1,282 @@
-# Hi, I'm Taufiq Ali 👋
-
+<!-- ==================== HERO HEADER ==================== -->
 <div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=TAUFIQALI&style=flat-square&color=gradient)](https://github.com/TAUFIQALI)
-
-### 🎨 Full-Stack Frontend Developer | CRM Specialist | Automation Expert
-
-**Transforming ideas into elegant, user-centric digital experiences**
-
-[![Email](https://img.shields.io/badge/Email-7taufiq7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7taufiq7@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@Taufiq_Ali-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Taufiq_Ali)
-[![Location](https://img.shields.io/badge/Location-Bangladesh-00C853?style=for-the-badge&logo=map-marker&logoColor=white)](📍)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20I'm%20Taufiq%20Ali&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Frontend%20Developer%20|%20CRM%20Specialist&descAlignY=60&descSize=22" width="100%" />
 </div>
 
----
-
-##  About Me
-
+<!-- ==================== TYPING ANIMATION ==================== -->
 <div align="center">
-
-| 🏢 **Current Role** |  **Education** | 💡 **Passion** |
-|:---:|:---:|:---:|
-| Frontend Developer @ **OrangeToolz** | ML Researcher | Building CRMs & Automation |
-| SalesPype & Pluto | Breast Cancer Detection | Saving Teams Time |
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Building+CRM+Platforms+that+Scale;Turning+Ideas+into+Polished+UIs;Automating+Workflows+to+Save+Time;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Laravel" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <em>I'm a passionate developer who turns complex product requirements into polished, maintainable UIs and automation pipelines. Currently building next-gen CRM platforms while exploring machine learning applications in healthcare.</em>
-</p>
+<br/>
 
----
-
-## 🚀 Featured Projects
-
-### 📊 **Google Sheets Automation Pipeline**
+<!-- ==================== ABOUT ME CARD ==================== -->
 <div align="center">
-
-**Reduced manual tracking by ~80%** 
-
-| Tech Stack | Impact |
-|------------|--------|
-| Make.com · Node.js · Google Apps Script | Auto-logs Figma comments → Google Sheets |
-
-[View Project →](https://github.com/TAUFIQALI/google-sheets-automation)
-
+  <h2>
+    <img src="https://img.shields.io/badge/About%20Me-0d1117?style=for-the-badge&labelColor=0d1117" />
+  </h2>
 </div>
 
----
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px;">
+      <img src="https://img.shields.io/badge/👨‍💻-Frontend_Developer-ffffff?style=flat-square&labelColor=transparent" />
+      <br/><br/>
+      <p align="center">
+        <b style="color: white; font-size: 18px;">I build beautiful, maintainable UIs</b><br/>
+        <span style="color: #f0f0f0;">and automation pipelines that save teams time.</span>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 📈 **SalesPype CRM Platform**
+<br/>
+
+<!-- ==================== INFO CARDS GRID ==================== -->
 <div align="center">
-
-**Frontend Architecture & UI Components** 
-
-| Tech Stack | Contributions |
-|------------|---------------|
-| React · Material UI · Laravel | Dashboards, Forms, Reusable Components |
-
-[View Project →](https://github.com/TAUFIQALI/salespype)
-
+  <table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+    <tr>
+      <td width="33%" align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px;">
+        <h3 style="color: white;">🏢 Current Role</h3>
+        <p style="color: white; font-size: 14px;">
+          Frontend Developer<br/>
+          <b>@ OrangeToolz</b><br/>
+          <i>SalesPype & Pluto</i>
+        </p>
+      </td>
+      <td width="33%" align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 25px; border-radius: 15px;">
+        <h3 style="color: white;">🎓 Research</h3>
+        <p style="color: white; font-size: 14px;">
+          ML Thesis Project<br/>
+          <b>Breast Cancer Detection</b><br/>
+          <i>Image Processing & ML</i>
+        </p>
+      </td>
+      <td width="33%" align="center" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 25px; border-radius: 15px;">
+        <h3 style="color: white;">💡 Passion</h3>
+        <p style="color: white; font-size: 14px;">
+          Building CRMs<br/>
+          <b>Automation Pipelines</b><br/>
+          <i>Clean, Scalable Code</i>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
 
-###  **ML — Breast Cancer Detection**
+<!-- ==================== GRADIENT DIVIDER ==================== -->
 <div align="center">
-
-**Research Thesis Project** 
-
-| Tech Stack | Focus Area |
-|------------|------------|
-| Python · ML · Image Processing | Preprocessing → Training → Evaluation |
-
-[View Project →](https://github.com/TAUFIQALI/breast-cancer-ml)
-
+  <img src="https://img.shields.io/badge/-20232a?style=for-the-badge" width="100%" height="3"/>
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack & Tools
-
+<!-- ==================== TECH STACK SECTION ==================== -->
 <div align="center">
-
-### Frontend Development
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232a)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=20232a)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=20232a)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white&labelColor=20232a)](https://mui.com/)
-
-### Backend & Database
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=20232a)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=20232a)](https://expressjs.com/)
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=20232a)](https://laravel.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=20232a)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=20232a)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=20232a)](https://www.mongodb.com/)
-
-### Tools & Platforms
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=20232a)](https://www.figma.com/)
-[![Make.com](https://img.shields.io/badge/-Make.com-6335C4?style=for-the-badge&logo=make&logoColor=white&labelColor=20232a)](https://www.make.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=20232a)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=20232a)](https://github.com/)
-
+  <h2>
+    <img src="https://img.shields.io/badge/🛠️_Tech_Stack-0d1117?style=for-the-badge&labelColor=0d1117" />
+  </h2>
 </div>
 
----
+<!-- Frontend Card -->
+<table align="center" width="90%" style="border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td colspan="2" align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 12px;">
+      <h3 style="color: white; margin: 0;">🎨 Frontend Development</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="background: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td width="50%" align="center" style="background: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-##  GitHub Stats & Activity
+<br/>
 
+<!-- Backend & Database Card -->
+<table align="center" width="90%" style="border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td colspan="2" align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 12px;">
+      <h3 style="color: white; margin: 0;">⚙️ Backend & Database</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="background: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </td>
+    <td width="50%" align="center" style="background: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="background: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Tools & Automation Card -->
+<table align="center" width="90%" style="border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td colspan="2" align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 12px;">
+      <h3 style="color: white; margin: 0;">🤖 Tools & Automation</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="background: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/Make.com-6335C4?style=for-the-badge&logo=make&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+    <td width="50%" align="center" style="background: #161b22; padding: 20px; border-radius: 12px; border: 1px solid #30363d;">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
 <div align="center">
-
-### 📈 My GitHub Stats
-
-[![Taufiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAUFIQALI&show_icons=true&theme=gradient&hide_border=false&bg_color=DEG,667eea,764ba2&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/TAUFIQALI)
-
-###  Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAUFIQALI&layout=compact&theme=gradient&hide_border=false&bg_color=DEG,764ba2,667eea&title_color=ffffff&text_color=ffffff)](https://github.com/TAUFIQALI)
-
-###  GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolay.dev/?user=TAUFIQALI&theme=gradient-dark&hide_border=false&background=667eea,764ba2&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/TAUFIQALI)
-
+  <h2>
+    <img src="https://img.shields.io/badge/🚀_Featured_Projects-0d1117?style=for-the-badge&labelColor=0d1117" />
+  </h2>
 </div>
 
----
+<table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
+  <!-- Project 1 -->
+  <tr>
+    <td width="50%" align="left" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px;">
+      <h3 style="color: white; margin-top: 0;">📊 Google Sheets Automation</h3>
+      <p style="color: white; font-size: 14px;">
+        A <b>Make.com + Node.js + Google Apps Script</b> pipeline that captures Figma comments and auto-logs them into Google Sheets.<br/><br/>
+        <b style="color: #ffd700;">✨ Impact:</b> Reduced manual tracking by <b>~80%</b>
+      </p>
+      <a href="https://github.com/TAUFIQALI/google-sheets-automation">
+        <img src="https://img.shields.io/badge/View_Project-ffffff?style=flat-square&logo=github&logoColor=black" />
+      </a>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" align="left" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 25px; border-radius: 15px;">
+      <h3 style="color: white; margin-top: 0;">📈 SalesPype CRM</h3>
+      <p style="color: white; font-size: 14px;">
+        Implemented <b>dashboards, forms, and reusable UI components</b> with React + Material UI. Integrated Laravel APIs.<br/><br/>
+        <b style="color: #ffd700;">✨ Focus:</b> Clean, maintainable frontend architecture
+      </p>
+      <a href="https://github.com/TAUFIQALI/salespype">
+        <img src="https://img.shields.io/badge/View_Project-ffffff?style=flat-square&logo=github&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+  <!-- Project 3 (Full Width) -->
+  <tr>
+    <td colspan="2" align="center" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 25px; border-radius: 15px;">
+      <h3 style="color: white; margin-top: 0;">🧠 ML — Breast Cancer Detection (Thesis)</h3>
+      <p style="color: white; font-size: 14px;">
+        Image-based ML model workflow: <b>preprocessing → training → validation → evaluation</b> on black-and-white image datasets. Gained hands-on experience with model explainability.
+      </p>
+      <a href="https://github.com/TAUFIQALI/breast-cancer-ml">
+        <img src="https://img.shields.io/badge/View_Project-ffffff?style=flat-square&logo=github&logoColor=black" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-##  Skills Matrix
+<br/>
 
+<!-- ==================== GITHUB STATS ==================== -->
 <div align="center">
-
-| **Category** | **Skills** | **Experience** |
-|--------------|------------|----------------|
-| 🎨 **Frontend** | React, TypeScript, Material UI, JavaScript | ⭐⭐⭐⭐⭐ |
-| ⚙️ **Backend** | Node.js, Express, Laravel, REST APIs | ⭐⭐⭐⭐ |
-| 🗄️ **Databases** | MySQL, PostgreSQL, MongoDB | ⭐⭐⭐⭐ |
-| 🤖 **Automation** | Make.com, Google Apps Script, Workflows | ⭐⭐⭐⭐ |
-|  **ML/AI** | Python, Image Processing, Model Training | ⭐⭐⭐ |
-|  **Methodologies** | Agile, Scrum, SRS/SDD, Figma | ⭐⭐⭐⭐ |
-
+  <h2>
+    <img src="https://img.shields.io/badge/📊_GitHub_Stats-0d1117?style=for-the-badge&labelColor=0d1117" />
+  </h2>
 </div>
 
----
-
-## 🏆 Achievements & Highlights
-
 <div align="center">
-
-✨ **Automation Excellence**: Built Figma-to-Google-Sheets pipeline saving **80% manual effort**  
-🎯 **CRM Development**: Core frontend contributor to SalesPype & Pluto platforms  
- **Research Impact**: ML thesis on breast cancer detection with image preprocessing  
-🚀 **Full-Stack Skills**: From React UIs to Laravel APIs to database design
-
+  <table width="100%" style="border-collapse: separate; border-spacing: 10px;">
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 15px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=TAUFIQALI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Stats" />
+      </td>
+      <td align="center" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAUFIQALI&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" alt="Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 15px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=TAUFIQALI&theme=transparent&hide_border=true&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
 
-## 📫 Let's Connect
-
+<!-- ==================== CONNECT SECTION ==================== -->
 <div align="center">
-
-### I'm always open to interesting projects and collaborations!
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232a)](mailto:7taufiq7@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=20232a)](https://twitter.com/Taufiq_Ali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232a)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=20232a)](https://github.com/TAUFIQALI)
-
----
-
-### 📍 Quick Info
-📧 **Email**: [7taufiq7@gmail.com](mailto:7taufiq7@gmail.com)  
-📱 **Phone**: +8801784183496  
-🌍 **Location**: Bangladesh 🇧🇩  
-💼 **Company**: OrangeToolz  
-🎓 **Research**: ML for Healthcare
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header&width=100%" width="100%" />
 </div>
 
----
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/📫_Let's_Connect-0d1117?style=for-the-badge&labelColor=0d1117" />
+  </h2>
+</div>
 
 <div align="center">
+  <table style="border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td align="center" style="background: linear-gradient(135deg, #EA4335 0%, #f5576c 100%); padding: 20px 30px; border-radius: 12px;">
+        <a href="mailto:7taufiq7@gmail.com">
+          <img src="https://img.shields.io/badge/📧_Email-ffffff?style=flat-square&logo=gmail&logoColor=EA4335" />
+        </a>
+      </td>
+      <td align="center" style="background: linear-gradient(135deg, #1DA1F2 0%, #4facfe 100%); padding: 20px 30px; border-radius: 12px;">
+        <a href="https://twitter.com/Taufiq_Ali">
+          <img src="https://img.shields.io/badge/🐦_Twitter-ffffff?style=flat-square&logo=twitter&logoColor=1DA1F2" />
+        </a>
+      </td>
+      <td align="center" style="background: linear-gradient(135deg, #0077B5 0%, #00f2fe 100%); padding: 20px 30px; border-radius: 12px;">
+        <a href="https://linkedin.com/in/your-profile">
+          <img src="https://img.shields.io/badge/💼_LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=0077B5" />
+        </a>
+      </td>
+      <td align="center" style="background: linear-gradient(135deg, #181717 0%, #333333 100%); padding: 20px 30px; border-radius: 12px;">
+        <a href="https://github.com/TAUFIQALI">
+          <img src="https://img.shields.io/badge/🐙_GitHub-ffffff?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Thanks for visiting my profile!** 💜  
-*Built with ❤️ and lots of ☕*
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/TAUFIQALI?style=for-the-badge&logo=github&labelColor=20232a&color=667eea)](https://github.com/TAUFIQALI)
-[![GitHub stars](https://img.shields.io/github/stars/TAUFIQALI?style=for-the-badge&logo=github&labelColor=20232a&color=764ba2)](https://github.com/TAUFIQALI?tab=repositories)
+<div align="center">
+  <p>
+    <b>📱 Phone:</b> +8801784183496 &nbsp; | &nbsp;
+    <b>📍 Location:</b> Bangladesh 🇧🇩
+  </p>
+</div>
 
+<!-- ==================== FOOTER ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20💜&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Built_with-❤️_and_☕-667eea?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=TAUFIQALI&style=flat-square&color=764ba2" />
 </div>
