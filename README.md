@@ -243,13 +243,8 @@
           <img src="https://img.shields.io/badge/📧_Email-ffffff?style=flat-square&logo=gmail&logoColor=EA4335" />
         </a>
       </td>
-      <td align="center" style="background: linear-gradient(135deg, #1DA1F2 0%, #4facfe 100%); padding: 20px 30px; border-radius: 12px;">
-        <a href="https://twitter.com/Taufiq_Ali">
-          <img src="https://img.shields.io/badge/🐦_Twitter-ffffff?style=flat-square&logo=twitter&logoColor=1DA1F2" />
-        </a>
-      </td>
       <td align="center" style="background: linear-gradient(135deg, #0077B5 0%, #00f2fe 100%); padding: 20px 30px; border-radius: 12px;">
-        <a href="https://linkedin.com/in/your-profile">
+        <a href="https://www.linkedin.com/in/md-taufiq-ali-ai-expert">
           <img src="https://img.shields.io/badge/💼_LinkedIn-ffffff?style=flat-square&logo=linkedin&logoColor=0077B5" />
         </a>
       </td>
