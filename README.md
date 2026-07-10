@@ -6,7 +6,7 @@
 
 <!-- ==================== ANIMATED WAVE HERO ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Taufiq%20Ali&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Software%20Engineer&descSize=22&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Taufiq%20Ali&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26amp%3B%20AI%20Software%20Engineer&descSize=22&descAlignY=58" width="100%" />
 </div>
 
 <!-- ==================== TYPING ANIMATION ==================== -->
@@ -215,5 +215,5 @@ const taufiq = {
 
 <!-- ==================== ANIMATED FOOTER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=140&section=footer&text=Open%20to%20Senior%20Full-Stack%20%26%20AI%20Roles&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=140&section=footer&text=Open%20to%20Senior%20Full-Stack%20%26amp%3B%20AI%20Roles&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%" />
 </div>
