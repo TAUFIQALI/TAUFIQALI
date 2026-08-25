@@ -157,13 +157,13 @@ const taufiq = {
   <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=TAUFIQALI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com/?user=TAUFIQALI&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=667eea" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TAUFIQALI&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=f093fb&point=43e97b&area=true&area_color=667eea" width="100%" />
-</div>
+</div> -->
 
 <!-- ==================== 3D CONTRIBUTION GRAPH (via GitHub Action) ==================== -->
 <div align="center">
